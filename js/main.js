@@ -74,9 +74,8 @@
         smartSpeed: 1000,
         center: true,
         margin: 24,
-        dots: true,
         loop: true,
-        nav : false,
+        nav : true,
         responsive: {
             0:{
                 items:1
