@@ -227,6 +227,13 @@
     left: 0;
 }
 
+/*** About ***/
+
+.abt{
+    height: 30rem;
+    width: 30rem;
+}
+
 
 /*** Service ***/
 .service-item {
