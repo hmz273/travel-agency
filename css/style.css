@@ -234,6 +234,11 @@
     width: 30rem;
 }
 
+.logo{
+    height: 75px;
+    width: 90px;
+}
+
 
 /*** Service ***/
 .service-item {
